@@ -1,0 +1,66 @@
+{
+  "assetId": "86bd82c2-0d27-11eb-aea0-0a580a3cdfce",
+  "compositeViewsId": "becf5274-8908-11ea-8e56-0a580a3c10cd|ec70917e-8909-11ea-95eb-0a580a3f8e05",
+  "modifiedAt": "2021-01-20T04:54:44.441",
+  "assetType": "VIDEO",
+  "userName": "Rohan Mundkur",
+  "createdAt": "2021-01-20T04:54:44.441",
+  "technicalMetadata": {
+    "name": "Asset Metadata",
+    "objectName": "bar&tone-9x16-10sec.mp4",
+    "id": "488545e4-8398-11ea-87ea-0a580a3c35ce",
+    "data": {
+      "Duration": "10000",
+      "Height": "1920",
+      "Format": "MPEG-4|AVC|AAC",
+      "Width": "1080",
+      "FileSize": "571433"
+    },
+    "objectId": "86bd82c2-0d27-11eb-aea0-0a580a3cdfce",
+    "objectType": "assets"
+  },
+  "country": "NORWAY",
+  "createdBy": "step-createMamAsset-EU-dev",
+  "assetMetadata": {
+    "data": {
+      "no-duo-CtaEndboard": "6th Jan",
+      "no-duo-DplayCtaEndboard-multi": "Se gratis på",
+      "no-duo-PreEndboard-templateCategory-text": "19.39",
+      "no-duo-isNoTagRequired": "true",
+      "no-duo-CtaTag": "Test",
+      "no-duo-EndboardDuration": "7",
+      "no-duo-PreEndboard-templateCategory": "KOMMER",
+      "no-duo-OutputAspectRatio": "16x9"
+    },
+    "objectFilePath": "bar&tone-9x16-10sec.mp4",
+    "name": "Duo Asset Metadata (Norway)",
+    "objectName": "bar&tone-9x16-10sec.mp4",
+    "id": "becf5274-8908-11ea-8e56-0a580a3c10cd",
+    "objectId": "86bd82c2-0d27-11eb-aea0-0a580a3cdfce",
+    "objectType": "assets"
+  },
+  "seasonMetadata": {
+    "name": "Duo Season Metadata (Norway)",
+    "objectName": "Season 1",
+    "id": "ec70917e-8909-11ea-95eb-0a580a3f8e05",
+    "data": {
+      "no-duo-Logo-multi": "TVNorge",
+      "global-SeriesTitle": "Season 1"
+    },
+    "objectId": "e6b09aca-ed92-11ea-bb72-0a580a3f8fd2",
+    "objectType": "collections"
+  },
+  "seriesMetadata": {
+    "objectName": "Series 1",
+    "objectId": "e2a1f5fa-ed92-11ea-86e6-0a580a3f60f9",
+    "objectType": "collections"
+  },
+  "onlyNoTagRequired": 1,
+  "episodeMetadata": {
+    "objectName": "Episode 1",
+    "objectId": "e9d1d9ee-ed92-11ea-a2fb-0a580a3c35f5",
+    "objectType": "collections"
+  },
+  "modifiedBy": "step-createMamAsset-EU-dev",
+  "assetTitle": "bar&tone-9x16-10sec.mp4"
+}
